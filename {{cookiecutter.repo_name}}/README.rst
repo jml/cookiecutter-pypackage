@@ -14,7 +14,7 @@
 
 {{ cookiecutter.project_short_description}}
 
-* Free software: BSD license
+* Free software: Apache license
 * Documentation: http://{{ cookiecutter.repo_name }}.rtfd.org.
 
 Features

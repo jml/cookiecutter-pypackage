@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+# Copyright (c) {{ cookiecutter.full_name }} {{ cookiecutter.year }}.  See LICENSE for details.
 # -*- coding: utf-8 -*-
 
 __author__ = '{{ cookiecutter.full_name }}'
